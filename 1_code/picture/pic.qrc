@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="pic"/>
+      <file>picture/logo.png</file>
+      <file>picture/cartpink.png</file>
+      <file>picture/look_pink.png</file>
+      <file>picture/plus.png</file>
+      <file>picture/profile.png</file>
+  </qresource>
+</RCC>
